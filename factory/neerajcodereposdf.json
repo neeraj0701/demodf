@@ -1,0 +1,9 @@
+{
+	"name": "neerajcodereposdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "238354ce-218f-4f71-89a1-010585e65338",
+		"tenantId": "27bc5371-d476-4cac-b485-0618058b3f0a"
+	}
+}
